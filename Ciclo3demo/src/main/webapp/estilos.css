@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    background-color: #F9F9F9;
+    background-attachment: fixed;
+    font-family: 'Muli', sans-serif;
+}
+
+.login__title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	flex-direction: row;
+}
+
+.img__title{
+	margin-right: 15px;
+}
+
+.login__block{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	flex-direction: row;
+}
